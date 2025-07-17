@@ -50,7 +50,7 @@ https://github.com/
 
 
 
-siusiubes
-
-
-jkdsidsj
+MAKING A COPY ON GITHUB:
+confirm that no new changes is available
+connect your onlone repo to your local repo 
+push the chnages to the online repo
