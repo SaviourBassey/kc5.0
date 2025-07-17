@@ -1,0 +1,56 @@
+GIT is basically ia distibuted version control system
+
+basically it allows developers to keep track of changes in their code
+
+It very useful for collabration as it developers to work together in single project
+
+every dev have a full copy of the repository 
+
+
+HOW DO WE USE GIT 
+WINDOWS: https://git-scm.com/downloads/win - 
+
+ADD GOT TO PATH: check
+
+
+MAC: brew install git 
+
+LINUX: sudo apt install git
+
+
+VERIFY INSTALLATION: git --version
+
+
+TERMINOLOGY:
+repository (repo): a directory / folder tracked by git
+commit - it basically a snapshot of changes
+branch - a parallel version of project 
+Merge - combining branches
+staging area - where changes are prepared begore commit 
+remote - a version of the repo hosted on a sever (GITHUB)
+clone - making a local copy of a remote remote
+
+
+
+WORKFLOW
+
+decide which folder needs to tracked 
+init git at that point (git init)
+move current chnages to staging area (git add filename / .)
+commit (git commit -m "message")
+
+NEW CHANGES (edited, added, deleted) TO A REPO
+move current chnages to staging area
+commit
+
+
+GITHUB: it a server where you can store your files
+you have to an account
+https://github.com/
+
+
+
+siusiubes
+
+
+jkdsidsj
