@@ -62,3 +62,11 @@ git config --global user.enail "email"
 
 
 press any key to authenticate in browser to github
+
+
+https://github.com/username
+
+
+GETTING ONLINE REPO LOCALLY:
+1. download 
+2. git clone repo link
