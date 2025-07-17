@@ -52,5 +52,13 @@ https://github.com/
 
 MAKING A COPY ON GITHUB:
 confirm that no new changes is available
-connect your onlone repo to your local repo 
-push the chnages to the online repo
+connect your onlone repo to your local repo  (git remote add repoLink [https://github.com/username/reposName.git])
+push the chnages to the online repo (git push -u origin master)
+
+
+FOR FIRST TIME GIT USER 
+git config --global user.name "username"
+git config --global user.enail "email"
+
+
+press any key to authenticate in browser to github
